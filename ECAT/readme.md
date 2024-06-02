@@ -1,4 +1,5 @@
 ECAT Exam Quiz Application
+
 This Python script is a console-based quiz application designed to simulate the ECAT (Engineering College Admission Test) exam. The application presents a series of multiple-choice questions to the user, records their answers, and calculates their score based on correct and incorrect responses.
 
 Key Features
